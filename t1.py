@@ -1,0 +1,2 @@
+a = 'nyc'
+print (a)
